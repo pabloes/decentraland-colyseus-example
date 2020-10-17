@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "removeComments": true,
+    "target": "es2015",
+    "module": "CommonJS",
+    "lib": ["es2015"],
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "skipLibCheck":true,
+    "types": [
+      "env",
+      "dcl",
+      "@decentraland/ChatController",
+      "@decentraland/EthereumController",
+      "@decentraland/SocialController",
+      "@decentraland/Identity",
+      "@decentraland/web3-provider"
+    ],
+    "typeRoots": [
+      "./node_modules/decentraland-ecs/types"
+    ]
+  },
+  "include": ["src/game.ts"]
+}

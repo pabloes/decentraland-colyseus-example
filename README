@@ -1,0 +1,12 @@
+Instructions:
+
+npm install on root folder and server folder
+open with vscode
+rum server from launch tool (.vscode/launch.json)
+
+open 2 terminals on root folder of this project
+execute in first one: npm run bundle-watch
+execute in second one: dcl start
+
+
+Overkill but works ¯\_(ツ)_/¯
