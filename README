@@ -8,5 +8,7 @@ open 2 terminals on root folder of this project
 execute in first one: npm run bundle-watch
 execute in second one: dcl start
 
+open http://localhost:2567/monitor  , user manafever password sammich
+
 
 Overkill but works ¯\_(ツ)_/¯
