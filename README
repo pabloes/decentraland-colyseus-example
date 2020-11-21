@@ -10,5 +10,7 @@ execute in second one: dcl start
 
 open http://localhost:2567/monitor  , user manafever password sammich
 
+The code of client game is on meta.ts
+The code of server is on server folder
 
 Overkill but works ¯\_(ツ)_/¯
