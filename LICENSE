@@ -1,7 +1,1 @@
 Copyright (c) 2020 Pablo Estornut
-
-This product helps anyone that wants to build decentraland open source projects via webpack setup that is not possible with default decentraland build lifecycle.
-
-For commercial projects, should require another agreement license from Pablo Estornut.
-
-This project uses other libraries with own licenses, listed in https://github.com/pabloes/decentraland-colyseus-example/blob/main/package.json
